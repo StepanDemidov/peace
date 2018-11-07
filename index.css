@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    background: rgba(139, 145, 255, 0.9);
+    position: fixed; 
+    right: 0;
+    left: 0;
+    top: 0;
+    padding: 20px;
+}
+
+.list-link{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: brown;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.list-item{
+    list-style: none;
+}
+
+.section-banner{
+    margin-top: 420.8px ;
+}
