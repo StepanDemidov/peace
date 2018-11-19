@@ -28,3 +28,39 @@
 .section-banner{
     margin-top: 420.8px ;
 }
+
+.card-wrap {
+    padding: 15px;
+    width: 25%;
+}
+
+.card {
+    min-width: 225px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.card-details{
+    padding: 20px;
+    background-color: #f9f9ff;
+}
+
+.card-button{
+    text-decoration: none;
+    font-size: 20px;
+}
+.card-text{
+    font-size: 18px;
+}
+
+.card-header{
+    font-size: 25px;
+}
+
+.banner-text{
+    font-size: 25px;
+    padding: 20px;
+    background-color: crimson;
+    font-weight: bold;
+}
